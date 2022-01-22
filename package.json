@@ -1,6 +1,6 @@
 {
-    "name": "react-pack",
-    "displayName": "react-pack",
+    "name": "boost-react-pack",
+    "displayName": "Productivity Booster",
     "description": "Recommended extensions for Next.js/React development",
     "version": "0.0.1",
     "engines": {
@@ -47,5 +47,10 @@
         "pflannery.vscode-versionlens",
         "vscode-icons-team.vscode-icons",
         "chihiro718.whitespacepp"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/javastudyhpp/vscode-react-pack"
+    },
+    "publisher": "qb20nh"
 }
