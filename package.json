@@ -1,0 +1,51 @@
+{
+    "name": "react-pack",
+    "displayName": "react-pack",
+    "description": "Recommended extensions for Next.js/React development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "wolray.any-swap",
+        "formulahendry.auto-rename-tag",
+        "wmaurer.change-case",
+        "ionceflorin.copy-current-file-path",
+        "sachinb94.css-tree",
+        "fabiospampinato.vscode-diff",
+        "docsmsft.docs-markdown",
+        "ysemeniuk.emmet-live",
+        "mhutchie.git-graph",
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "vincaslt.highlight-matching-tag",
+        "iceliu.highlight-icemode",
+        "ecmel.vscode-html-css",
+        "oderwat.indent-rainbow",
+        "zignd.html-css-class-completion",
+        "wmaurer.vscode-jumpy",
+        "ritwickdey.liveserver",
+        "ms-vsliveshare.vsliveshare",
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-preview-github-styles",
+        "davidanson.vscode-markdownlint",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "sonarsource.sonarlint-vscode",
+        "standard.vscode-standard",
+        "blanu.vscode-styled-jsx",
+        "tabnine.tabnine-vscode",
+        "spmeesseman.vscode-taskexplorer",
+        "meganrogge.template-string-converter",
+        "gruntfuggly.todo-tree",
+        "shardulm94.trailing-spaces",
+        "pflannery.vscode-versionlens",
+        "vscode-icons-team.vscode-icons",
+        "chihiro718.whitespacepp"
+    ]
+}
