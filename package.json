@@ -1,8 +1,8 @@
 {
     "name": "boost-react-pack",
-    "displayName": "Productivity Booster",
-    "description": "Recommended extensions for Next.js/React development",
-    "version": "0.0.2",
+    "displayName": "React Boost Pack",
+    "description": "Personal recommendations for React.js development",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -56,7 +56,8 @@
         "zachgawlik.convert-object-to-jsx",
         "subhashishnabajja.html-to-jsx",
         "editorconfig.editorconfig",
-        "swellaby.workspace-config-plus"
+        "swellaby.workspace-config-plus",
+        "quicktype.quicktype"
     ],
     "repository": {
         "type": "git",
