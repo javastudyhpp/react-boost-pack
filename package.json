@@ -2,7 +2,7 @@
     "name": "boost-react-pack",
     "displayName": "Productivity Booster",
     "description": "Recommended extensions for Next.js/React development",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -46,7 +46,17 @@
         "shardulm94.trailing-spaces",
         "pflannery.vscode-versionlens",
         "vscode-icons-team.vscode-icons",
-        "chihiro718.whitespacepp"
+        "chihiro718.whitespacepp",
+        "streetsidesoftware.code-spell-checker",
+        "mikestead.dotenv",
+        "alphabotsec.vscode-eclipse-keybindings",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "cardinal90.multi-cursor-case-preserve",
+        "johnpapa.vscode-peacock",
+        "zachgawlik.convert-object-to-jsx",
+        "subhashishnabajja.html-to-jsx",
+        "editorconfig.editorconfig",
+        "swellaby.workspace-config-plus"
     ],
     "repository": {
         "type": "git",
