@@ -2,7 +2,7 @@
     "name": "boost-react-pack",
     "displayName": "React Boost Pack",
     "description": "Personal recommendations for React.js development",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -57,7 +57,15 @@
         "subhashishnabajja.html-to-jsx",
         "editorconfig.editorconfig",
         "swellaby.workspace-config-plus",
-        "quicktype.quicktype"
+        "quicktype.quicktype",
+        "michaelcurrin.auto-commit-msg",
+        "hnw.vscode-auto-open-markdown-preview",
+        "vivaxy.vscode-conventional-commits",
+        "usernamehw.errorlens",
+        "logerfo.open-all-files",
+        "ibm.output-colorizer",
+        "humao.rest-client",
+        "jock.svg"
     ],
     "repository": {
         "type": "git",
