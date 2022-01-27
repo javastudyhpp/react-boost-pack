@@ -2,7 +2,7 @@
     "name": "boost-react-pack",
     "displayName": "React Boost Pack",
     "description": "Personal recommendations for React.js development",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -65,7 +65,8 @@
         "logerfo.open-all-files",
         "ibm.output-colorizer",
         "humao.rest-client",
-        "jock.svg"
+        "jock.svg",
+        "rlnt.keep-a-changelog"
     ],
     "repository": {
         "type": "git",
