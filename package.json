@@ -2,7 +2,7 @@
     "name": "boost-react-pack",
     "displayName": "React Boost Pack",
     "description": "Personal recommendations for React.js development",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -75,7 +75,11 @@
         "MikeyLau.typewriter-auto-scroll",
         "wraith13.unsaved-files-vscode",
         "jrebocho.vscode-random",
-        "p42ai.refactor"
+        "p42ai.refactor",
+        "alefragnani.Bookmarks",
+        "chunsen.bracket-select",
+        "bierner.markdown-yaml-preamble",
+        "albert.TabOut"
     ],
     "repository": {
         "type": "git",
